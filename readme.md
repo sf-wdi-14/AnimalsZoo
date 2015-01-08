@@ -33,7 +33,7 @@ The User should be able to...
 6. Create a model for you animals that will store the data and behavior for them. Note: you will create an Animal class with class methods. It is also recommended you seed your site with some initial animal data. Here's a good starting point:
 
 ```
-#animals.rb file
+#animal.rb file in models folder
 
 class Animal
   #seeded animals
