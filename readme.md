@@ -22,7 +22,7 @@ The User should be able to...
 
 ## How to get started
 
-1. Run `rails new RailsZoo -d postgresql` to settup your app using postgresql as the default database
+1. Run `rails new RailsZoo` to settup your app using postgresql as the default database
 2. Name your databases in config/database.yml and then run `rake db:create`
 3. Write your own custom routes, if you need a good reference refer to the [routes guide](http://guides.rubyonrails.org/routing.html#crud-verbs-and-actions) in the Rails Docs. I.e.
 		* get '/animals/new', to: 'animals#new'
