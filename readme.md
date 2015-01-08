@@ -1,7 +1,6 @@
 # Rails Zoo Lab
 
-You have been hired by your local Zoo. They would like an app that catalogues their animals.
-
+Your local zoo has hired you to build a web-based application (app). Based on the zoo's specifications, the app should catalogue every animal at the zoo. 
 
 **NB:** This app will not persist data nor have a login system, but we will get to both shortly!
 
@@ -36,7 +35,7 @@ The User should be able to...
 #animal.rb file in models folder
 
 class Animal
-  #seeded animals
+  #seed animals
   @@animals = ["lions", "tigers", "bears", "elephants", "dolphins"]
   def self.all
     @@animals
