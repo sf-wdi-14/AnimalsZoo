@@ -2,7 +2,7 @@
 
 Your local zoo has hired you to build a web-based application (app). Based on the zoo's specifications, the app should catalogue every animal at the zoo. 
 
-**NB:** This app will not persist data nor have a login system, but we will get to both shortly!
+**Note:** The app will not persist data nor have a login system; we will get to both shortly!
 
 ##User Stories
 The User should be able to...
